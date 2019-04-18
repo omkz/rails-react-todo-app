@@ -1,24 +1,11 @@
-# README
+## README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample React and Rails Todo list app. To run this:
 
-Things you may want to cover:
+* rails db:migrate
 
-* Ruby version
+* heroku local -f Procfile.dev
 
-* System dependencies
+## Screenshots
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Screenshot](https://raw.githubusercontent.com/omkz/rails-react-todo-app/master/public/screenshot.png)
