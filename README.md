@@ -8,4 +8,4 @@ This is a sample React and Rails Todo list app. To run this:
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/omkz/rails-react-todo-app/master/public/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/omkz/rails-react-todo-app/master/public/Screenshot.png)
